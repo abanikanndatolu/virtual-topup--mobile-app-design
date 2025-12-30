@@ -33,7 +33,7 @@
   ![user Dashboard](docs/images/dashboard.png)
   ![airtime topup](docs/images/airtime.png)
   ![data topup](docs/images/data.png)
-  ![electricity topup](docs/images/paybills.png.png)
+  ![electricity topup](docs/images/paybills.png)
   ![recharge history](docs/images/history.png)
   ![settings](docs/images/settings.png)
   ![Topup account](docs/images/wallet.png)
